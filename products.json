@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Aluminum Wheelchair",
+        "price": 14000,
+        "image": { "fields": { "file": { "url": "./images/product-1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Basic Wheel Chair",
+        "price": 10000,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Automatic Folding Wheelchair",
+        "price": 100000,
+        "image": { "fields": { "file": { "url": "./images/product-3.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Max Electric Wheelchair",
+        "price": 500000,
+        "image": { "fields": { "file": { "url": "./images/product-4.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Electric Fowler Bed",
+        "price": 33750,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "GH015 Plain Hospital Bed Mattress",
+        "price": 5000,
+        "image": { "fields": { "file": { "url": "./images/product-6.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Wellcure-10014 Hospital Plain Bed",
+        "price": 7750,
+        "image": { "fields": { "file": { "url": "./images/product-7.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Electric Hospital Bed",
+        "price": 55000,
+        "image": { "fields": { "file": { "url": "./images/product-8.webp" } } }
+      }
+    }
+  ]
+}
